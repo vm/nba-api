@@ -1,0 +1,11 @@
+[package]
+name = "nba-api"
+version = "0.1.0"
+authors = ["Vignesh Mohankumar <vignesh@vigneshmohankumar.com>"]
+
+[dependencies]
+chrono="*"
+hyper="*"
+itertools="*"
+select="*"
+regex="*"
